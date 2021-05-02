@@ -3,7 +3,7 @@ THIS IS SIMPLE DJANGO REST APPLICATION WHICH INSERTS AND DELETES MOVIES FROM SQL
 
 #STEPS TO START PROJECT
 
-### `git clone https://github.com/mithjain/movies-rest`
+### `git clone https://github.com/mithjain/movies-rest
 ### `cd movies`
 ### `python manage.py migrate`
 ### `python manage.py makemigrations`
